@@ -90,7 +90,7 @@ team-purp/
 
 <div align="center">
 
-### ⬡ @LabyrinthCoder
+[![LabyrinthCoder](https://img.shields.io/badge/%F0%9F%9F%A3%20%40LabyrinthCoder-Team%20PURP%20%7C%20Labyrinth--OS-6B2FA0?style=for-the-badge&labelColor=1a0a2e&color=6B2FA0)](members/labyrinthcoder/PROFILE.md)
 
 </div>
 
@@ -115,7 +115,7 @@ through Z3-proven formal proofs, tamper-evident ledgers, and a gate that does no
 
 <div align="center">
 
-### ⬡ @BioAnkh84
+[![BioAnkh84](https://img.shields.io/badge/%F0%9F%9F%A0%20%40BioAnkh84-Team%20PURP%20%7C%20Echo%20Root%20VE-F97316?style=for-the-badge&labelColor=1a0a2e&color=F97316)](members/bioankh84/PROFILE.md)
 
 </div>
 
