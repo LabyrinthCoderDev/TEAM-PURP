@@ -1,47 +1,59 @@
-# Lab Journal — Team PURP
+# Build Journal — @BioAnkh84
 
-Shared record of decisions, milestones, and arrivals.
-Not meeting minutes. Not a roadmap. Just what happened.
+Personal log for Echo Root OS and Vulpine Echo.
 
 ---
 
 ## Standing Orders
 
 ```
-INDEPENDENCE:   Every member owns their own project.
-HONESTY:        Projects say what they are and what they aren't.
-NO SCOOPING:    Don't build on another member's work without asking.
-OPEN SLOTS:     New members welcome. See CONTRIBUTING.md.
-LOG IT:         Major events go here. Not every commit — the milestones.
+LOG IT:     Every release and architectural shift gets recorded.
+HONEST:     Document what failed alongside what worked.
+SIGNAL:     If the system changed how it thinks about something, write it down.
 ```
 
 ---
 
-## 2026-05 — Lab Founded
+## 2025-10 — Echo Root VE v0.1a — First Build
 
-**Members at founding:**
-- @LabyrinthCoder — Labyrinth-OS
-- @BioAnkh84 — Echo Root VE
-
-Two independent systems. Built separately. Arrived at similar architectural conclusions — gate before execution, tamper-evident ledger, PAUSE as a first-class state.
-
-That convergence is what made the lab worth naming.
+Vulpine Echo Kernel v0.1a — PS5.1-safe test kernel.
+ρ/γ/Δ gate. JSONL ledger. Redivous enforcement. First working pipeline.
 
 ---
 
-## 2026-05 — Labyrinth-OS Core — GitHub Ready
-
-1,102 tests passing. Z3-proven thresholds. 12 logical subfolders.
-Reviewed independently by GPT (×4) and Grok (×1).
-
-Grok: *"Almost never. This is different."*
-
----
-
-## 2026-05 — Echo Root VE — v0.2.0 Vexis
+## 2026-03 — Echo Root VE v0.2.0 — Vexis Update
 
 Live: https://github.com/BioAnkh84/echo-root-ve
 
+Major architectural evolution. System moving from AI runtime toward
+governed habitat with observer layer, operational evidence system,
+and consent-gated execution.
+
+Key insight recorded:
+*understanding ≠ permission*
+*semantic calm ≠ operational authority*
+
 ---
 
-*Add entries at the bottom. Format: ## YYYY-MM — Title*
+## 2026-05 — Cipher Habitat / Echo Nexus — In Development
+
+Scanner evolution: checklist → scanner → evidence → observability.
+
+New components:
+- Component fingerprinting and volatility tracking
+- Replay capsules: observe → classify → explain → persist → compare → replay
+- Mobile operator lane (verified no bypass introduced)
+- Identity + relationship routing (user/device/session/consent/scope/relationship_scope)
+- TPI, Weather, Forecast, Volatility outputs
+
+Current state: Structure GREEN · Contract GREEN · Behavior GREEN · Runtime YELLOW
+
+---
+
+## 2026-05 — Team PURP — Lab Founded
+
+Joined as founding member alongside @LabyrinthCoder.
+
+---
+
+*New entries go at the bottom.*
