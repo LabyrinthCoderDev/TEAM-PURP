@@ -90,7 +90,7 @@ team-purp/
 
 <div align="center">
 
-[![LabyrinthCoder](https://img.shields.io/badge/%F0%9F%9F%A3%20%40LabyrinthCoder-Team%20PURP%20%7C%20Labyrinth--OS-6B2FA0?style=for-the-badge&labelColor=1a0a2e&color=6B2FA0)](members/labyrinthcoder/PROFILE.md)
+[![LabyrinthCoder](https://img.shields.io/badge/%F0%9F%9F%A3%20%40LabyrinthCoder-Team%20PURP%20%7C%20Labyrinth--OS-6B2FA0?style=for-the-badge&labelColor=1a0a2e&color=6B2FA0)](members/LabyrinthCoder/PROFILE.md)
 
 </div>
 
@@ -107,7 +107,7 @@ through Z3-proven formal proofs, tamper-evident ledgers, and a gate that does no
 [![Z3](https://img.shields.io/badge/Z3-formally%20verified-7C3AED?style=flat-square&labelColor=1a0a2e)]()
 [![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square&labelColor=1a0a2e)]()
 
-→ [Profile](members/labyrinthcoder/PROFILE.md) · [Repos](members/labyrinthcoder/REPOS.md) · [Journal](members/labyrinthcoder/JOURNAL.md)
+→ [Profile](members/LabyrinthCoder/PROFILE.md) · [Repos](members/LabyrinthCoder/REPOS.md) · [Journal](members/LabyrinthCoder/JOURNAL.md)
 
 <br>
 
@@ -115,7 +115,7 @@ through Z3-proven formal proofs, tamper-evident ledgers, and a gate that does no
 
 <div align="center">
 
-[![BioAnkh84](https://img.shields.io/badge/%F0%9F%9F%A0%20%40BioAnkh84-Team%20PURP%20%7C%20Echo%20Root%20VE-F97316?style=for-the-badge&labelColor=1a0a2e&color=F97316)](members/bioankh84/PROFILE.md)
+[![BioAnkh84](https://img.shields.io/badge/%F0%9F%9F%A0%20%40BioAnkh84-Team%20PURP%20%7C%20Echo%20Root%20VE-F97316?style=for-the-badge&labelColor=1a0a2e&color=F97316)](members/BioAnkh84/PROFILE.md)
 
 </div>
 
@@ -132,7 +132,7 @@ Now evolving toward a fully governed human-AI habitat with real-time observabili
 [![Version](https://img.shields.io/badge/v0.2.0-Vexis-F97316?style=flat-square&labelColor=1a0a2e)]()
 [![Status](https://img.shields.io/badge/status-active-22c55e?style=flat-square&labelColor=1a0a2e)]()
 
-→ [Profile](members/bioankh84/PROFILE.md) · [Repos](members/bioankh84/REPOS.md) · [Journal](members/bioankh84/JOURNAL.md)
+→ [Profile](members/BioAnkh84/PROFILE.md) · [Repos](members/BioAnkh84/REPOS.md) · [Journal](members/BioAnkh84/JOURNAL.md)
 
 <br>
 
