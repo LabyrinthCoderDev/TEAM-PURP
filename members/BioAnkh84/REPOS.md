@@ -7,4 +7,12 @@
 
 ---
 
+## Public Boundary
+
+These entries describe the public project shape and status.
+
+They do not expose private habitat data, internal scoring details, private memory, credentials, or unreleased operator workflows.
+
+---
+
 *Echo Root VE is an experimental prototype. Honest about what it is and what it isn't.*

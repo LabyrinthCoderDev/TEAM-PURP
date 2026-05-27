@@ -17,7 +17,7 @@ SIGNAL:     If the system changed how it thinks about something, write it down.
 ## 2025-10 — Echo Root VE v0.1a — First Build
 
 Vulpine Echo Kernel v0.1a — PS5.1-safe test kernel.
-ρ/γ/Δ gate. JSONL ledger. Redivous enforcement. First working pipeline.
+Governance gate. JSONL ledger. Redivous enforcement. First working pipeline.
 
 ---
 
@@ -47,6 +47,10 @@ New components:
 - TPI, Weather, Forecast, Volatility outputs
 
 Current state: Structure GREEN · Contract GREEN · Behavior GREEN · Runtime YELLOW
+
+Public note:
+The habitat shape can be described publicly, but internal scoring, private ledgers,
+private memory, credentials, and unreleased operator details stay out of the hub.
 
 ---
 

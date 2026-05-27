@@ -4,7 +4,7 @@
 
 1. **Have something real.** Doesn't need to be finished. Has to be honest about what it is.
 2. **DM @LabyrinthCoder on X.** Introduce yourself and your project.
-3. **Copy the template** from `members/new-member-template/` into `members/[your-handle]/`
+3. **Copy the template** from `members/New-Member-Template/` into `members/[your-handle]/`
 4. **Fill in** `PROFILE.md` and `REPOS.md`
 5. **Open a pull request** — update `MEMBERS.md` and `README.md` too
 6. **Done.** Your project is yours. The lab is shared.
